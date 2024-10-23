@@ -1,0 +1,28 @@
+# Ignorar arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar ambientes virtuais
+venv/
+env/
+ENV/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração do editor
+*.swp
+*.swo
+*.DS_Store
+.idea/
+.vscode/
+
+# Ignorar arquivos do sistema
+Thumbs.db
+ehthumbs.db
+*.bak
+
+# Ignorar diretórios de testes
+tests/
+*.test.py

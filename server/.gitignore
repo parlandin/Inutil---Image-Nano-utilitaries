@@ -1,0 +1,11 @@
+# Ambiente Virtual
+env/
+
+# Cache de Python
+
+__pycache__/
+*.pyc
+*.pyo
+
+
+u2net.onnx
